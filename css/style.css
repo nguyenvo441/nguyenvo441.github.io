@@ -1,0 +1,145 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#container{
+	width: 1500px;
+	height: 5000px;
+	background: ;
+}
+
+#menu{
+	width: 1500px;
+	height: 100px;
+	background:#FFFAFA;
+	margin-bottom: 8px;
+	
+
+}
+#menu ul{
+	
+	list-style: none;
+}
+#menu ul li {
+	float: left;
+	margin-left: 240px;	
+	text-align: center;
+	line-height: 70px;
+	margin-top: 10px;
+	width: 80px;
+	height: 25px;
+	transition-duration: 2s;
+	
+}
+#menu ul li a{
+	color: black;
+	text-decoration: none;
+	font-size: 15px;
+	text-transform: uppercase;
+	
+	font-family: 'Sniglet', cursive;
+	
+	
+}
+#menu ul li a:hover{
+	color: black;
+	transition: 0.5s ;
+	display: inline-block ;
+	position:relative ;
+	top: 5px;
+	left: 8px;
+	border: 1px solid black ;
+	text-decoration: none ;	
+	font-weight: bold ;	
+	  color: grey;
+	  cursor: pointer;
+	  display: inline-block;
+	  font-size:16px;
+	  font-weight: 400;
+	  line-height: 36px;
+	  margin: 0 0 2em;
+	  max-width: 160px; 
+	  position: relative;
+	  text-decoration: none;
+	  text-transform: uppercase;
+	  width: 100%; 
+	  
+   
+
+}
+	
+  
+
+#header-main{
+	
+	margin-bottom: 10px;
+} 
+	
+
+#conten{
+	float: left;
+	
+}
+
+#conten p{
+	
+	font-size:  100px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+}
+
+
+
+#hinh1{
+	margin-left: 380px;
+}
+h1{
+	
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	line-height:150px;
+	
+}
+h2{font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	line-height:1
+}
+h3{font-family: 'Josefin Slab', serif;
+	font-size: 30px;
+	text-align: center;
+	line-height:100px
+	
+}
+    
+
+
+
+#footer img{
+	
+	margin-left: 680px; 
+}
+#footer{
+	width: 1500px;
+	height: 250px;
+	background: ;
+;
+	
+}
+#footer a{
+	font-family: 'Maven Pro', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	margin-left: 600px;
+	color: black; 
+	text-decoration: none;
+}
+
+
+
+
+	
+
+
+	
